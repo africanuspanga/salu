@@ -1,0 +1,4 @@
+_src
+.env
+.env.local
+node_modules

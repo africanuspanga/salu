@@ -1,0 +1,9 @@
+{
+  "name": "salu-website",
+  "private": true,
+  "description": "SALU Solutions static website plus the contact form function (api/contact.js).",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  }
+}
